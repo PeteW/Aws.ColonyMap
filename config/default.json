@@ -1,0 +1,15 @@
+/**
+ * Created by pw on 1/24/2015.
+ */
+{
+    "S3Info" : {
+        "UserAccessKeyId" : "AKIAJI4CUZ64Y6NS6HDQ",
+        "UserAccessSecretKey" : "",
+        "UserName" : "AnimalWelfareSociety",
+        "Password" : "AnimalWelfare",
+        "BucketName" : "animalwelfaresociety",
+        "BucketUrl" : "https://s3.amazonaws.com/animalwelfaresociety/",
+        "Region" : "us-east-1",
+        "ExcelFileName" : "test.xlsx"
+    }
+}

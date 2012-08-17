@@ -1,0 +1,6 @@
+{
+  "name": "Aws.ColonyMap",
+  "description": "Map data visualization tool for feral cat colonies in the state of Maine" ,
+  "repository": "https://github.com/PeteW/Aws.ColonyMap",
+  "keywords": ["node", "express", "static"]
+}

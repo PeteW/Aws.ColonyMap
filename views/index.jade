@@ -1,0 +1,13 @@
+extends layout
+block head
+    script(src='/javascripts/angular.min.js')
+    script(src='/javascripts/leaflet.js')
+    script(src='/javascripts/angular-leaflet-directive.min.js')
+    script(src='/javascripts/index-client.js')
+
+block content
+  div(ng-controller='Controller')
+      leaflet(defaults='defaults', markers='markers')
+
+block scripts
+
